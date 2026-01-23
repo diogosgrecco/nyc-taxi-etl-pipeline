@@ -1,3 +1,15 @@
+## ðŸš€ Featured Data Engineering Project
+
+### [NYC Taxi Data Lakehouse (Azure & Databricks)](https://github.com/diogosgrecco/nyc-taxi-etl-pipeline)
+**Technologies:** Azure Data Lake Gen2, Databricks (PySpark), Delta Lake, Power BI
+
+An end-to-end ELT pipeline processing millions of records.
+* **Ingestion:** Automated file-by-file processing handling schema evolution.
+* **Transformation:** Medallion architecture (Bronze/Silver/Gold) with data quality checks.
+* **Reporting:** Star Schema modeling for high-performance Power BI dashboards.
+
+[**View the full project code & documentation â†’**](https://github.com/diogosgrecco/nyc-taxi-etl-pipeline)
+
 # NYC Taxi Data Lakehouse (Azure & Databricks)
 
 ## Project Overview
@@ -17,12 +29,13 @@ Azure Data Lake Gen2 (Storage) ? Azure Databricks (Spark Compute) ? Power BI (Vi
 ## Project Structure
 ```text
 nyc-taxi-etl-pipeline/
-¦
+Â¦
 +-- notebooks/
-¦   +-- Ingestion.py          # Setup & mounting ADLS Gen2 to Databricks
-¦   +-- Load_Bronze.py        # Raw data ingestion & schema unification
-¦   +-- Transform_Silver.py   # Data cleaning, filtering & type casting
-¦   +-- Reporting_Gold.py     # Aggregations & Star Schema creation
-¦
+Â¦   +-- Ingestion.py          # Setup & mounting ADLS Gen2 to Databricks
+Â¦   +-- Load_Bronze.py        # Raw data ingestion & schema unification
+Â¦   +-- Transform_Silver.py   # Data cleaning, filtering & type casting
+Â¦   +-- Reporting_Gold.py     # Aggregations & Star Schema creation
+Â¦
 +-- architecture.png          # System design diagram
+
 +-- README.md                 # Project documentation
