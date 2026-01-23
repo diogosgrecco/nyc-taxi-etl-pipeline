@@ -36,6 +36,11 @@ nyc-taxi-etl-pipeline/
 ¦   +-- Transform_Silver.py   # Data cleaning, filtering & type casting
 ¦   +-- Reporting_Gold.py     # Aggregations & Star Schema creation
 ¦
+¦── reporting/          <-- CREATE THIS for your .pbix file
+¦   +-- nyc_taxi_dashboard.pbix
+¦── data_samples/       <-- CREATE THIS (Optional, see warning below)
+    +-- dim_taxi_zones.csv
 +-- architecture.png          # System design diagram
 
 +-- README.md                 # Project documentation
+
