@@ -1,6 +1,6 @@
 # NYC Taxi Revenue Monitor 🚖
 
-![Dashboard Preview](NYC Taxi Executive Pulse.png)
+![Dashboard Preview](screenshots/NYC%20Taxi%20Executive%20Pulse.png)
 
 [**🔴 View Live Interactive Dashboard**](PASTE_YOUR_PUBLISH_TO_WEB_LINK_HERE)
 
@@ -51,5 +51,6 @@ nyc-taxi-etl-pipeline/
 +-- architecture.png          # System design diagram
 
 +-- README.md                 # Project documentation
+
 
 
