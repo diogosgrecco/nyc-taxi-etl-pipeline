@@ -21,8 +21,6 @@ An end-to-end ELT pipeline processing millions of records.
 
 [**View the full project code & documentation →**](https://github.com/diogosgrecco/nyc-taxi-etl-pipeline)
 
-# NYC Taxi Data Lakehouse (Azure & Databricks)
-
 ## Project Overview
 This project implements a scalable End-to-End ETL pipeline for the massive NYC Taxi dataset (2023-2025). Using a **Medallion Architecture** (Bronze, Silver, Gold), it ingests raw Parquet/CSV data, handles complex schema evolution issues, and produces optimized tables for Power BI reporting.
 
@@ -54,6 +52,7 @@ nyc-taxi-etl-pipeline/
 +-- architecture.png          # System design diagram
 
 +-- README.md                 # Project documentation
+
 
 
 
