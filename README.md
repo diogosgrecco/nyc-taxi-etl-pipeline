@@ -2,7 +2,8 @@
 
 ![Dashboard Preview](screenshots/NYC%20Taxi%20Executive%20Pulse.png)
 
-[**📥 Download Power BI File (Google Drive)**]([PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE](https://drive.google.com/file/d/1kBuVrq5xWTH3eXrnYa0abjW6E84k3wbG/view?usp=sharing))
+[**📥 Download Power BI File**](https://drive.google.com/file/d/1kBuVrq5xWTH3eXrnYa0abjW6E84k3wbG/view?usp=sharing)
+[**📄 View PDF Report**](https://drive.google.com/file/d/1XlUuUp-4-4iN7-ELDat4DxMg-ZfcIuvU/view?usp=sharing)
 
 > **Note:** You will need Power BI Desktop installed to view the interactive `.pbix` file.
 
@@ -53,6 +54,7 @@ nyc-taxi-etl-pipeline/
 +-- architecture.png          # System design diagram
 
 +-- README.md                 # Project documentation
+
 
 
 
