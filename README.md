@@ -1,3 +1,11 @@
+# NYC Taxi Revenue Monitor 🚖
+
+![Dashboard Preview](NYC Taxi Executive Pulse.png)
+
+[**🔴 View Live Interactive Dashboard**](PASTE_YOUR_PUBLISH_TO_WEB_LINK_HERE)
+
+---
+
 ## 🚀 Featured Data Engineering Project
 
 ### [NYC Taxi Data Lakehouse (Azure & Databricks)](https://github.com/diogosgrecco/nyc-taxi-etl-pipeline)
@@ -43,4 +51,5 @@ nyc-taxi-etl-pipeline/
 +-- architecture.png          # System design diagram
 
 +-- README.md                 # Project documentation
+
 
